@@ -1,0 +1,29 @@
+h1 {
+    color: red;
+    text-align: center;
+    font-size: xx-large;
+  }
+
+  td {
+    height: 50px;
+    vertical-align: bottom;
+  }
+
+  tr:hover {background-color: gray; }
+
+
+  .table1 {
+    width: 100%;
+    border: 1px solid black;
+    background: mintcream;
+  }
+  
+
+  
+  .table1 th {
+    text-align: left;
+    background-color: #4CAF50; /* Green */
+    font-size: larger;
+  }
+
+  
